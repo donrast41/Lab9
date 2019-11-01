@@ -215,7 +215,7 @@ myReplSet:SECONDARY> rs.config()
         }
 }
 ```
-![](https://github.com/donrast41/Lab9/blob/master/Screen%20Shot%202019-11-01%20at%2009.26.56.png)
+![](https://github.com/donrast41/Lab9/blob/master/IMAGE%202019-11-01%2012:29:06.jpg)
 
 ## After removing vps
 
@@ -436,4 +436,4 @@ myReplSet:PRIMARY> rs.config()
         }
 }
 ```
-![](https://github.com/donrast41/Lab9/blob/master/Screen%20Shot%202019-11-01%20at%2009.26.56.png)
+![](https://github.com/donrast41/Lab9/blob/master/IMAGE%202019-11-01%2012:29:08.jpg)
